@@ -11,5 +11,7 @@ Note:
 - The images of the movie icons are scraped from the tmdb movie API
 
 
+Data: https://grouplens.org/datasets/movielens/
+
 
 <ins>A video demo</ins>: https://www.loom.com/share/ff0da5c5440d4cab9f2dca5d8de2c218
